@@ -1,1 +1,1 @@
-This project is for checking purpose only.
+This project is for trail purpose only.
